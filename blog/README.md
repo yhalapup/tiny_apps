@@ -3,6 +3,9 @@ Rails 4.2, Sqlite3
 
 ## Installation
 
+```ruby
+gem install rails -v 4.2.10
+```
 
 This will create a Rails application called Blog in a blog directory and .
 ```ruby
